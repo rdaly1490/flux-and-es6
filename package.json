@@ -9,6 +9,7 @@
   "author": "Rob Daly",
   "license": "ISC",
   "dependencies": {
+    "bootstrap": "^3.3.6",
     "flux": "^2.1.1",
     "history": "^1.13.1",
     "react": "^0.14.2",
